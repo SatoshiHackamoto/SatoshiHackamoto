@@ -1,3 +1,5 @@
+![DALL·E 2023-10-23 21 44 27 - Wide banner vector of a tech campus  Students walk around with devices showcasing AI applications, front end designs, web apps, and mobile apps  In th](https://github.com/SatoshiHackamoto/SatoshiHackamoto/assets/93943194/99bf0106-bed7-43a3-924c-71f3eeaf3947)
+
 <h1 align="center">Hi, I'm Jernej Vrezner</h1>
 <h3 align="center">A dedicated FERI student eager to expand their knowledge and skills.</h3>
 
