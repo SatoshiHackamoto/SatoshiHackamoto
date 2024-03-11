@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jernej Vrezner</h1>
-<h3 align="center">A dedicated FERI student eager to expand their knowledge and skills.</h3>
+<h3 align="center">FERI student eager to expand their knowledge and skills.</h3>
 
 - 🔭 I’m currently working on **mobile phone app**
 
